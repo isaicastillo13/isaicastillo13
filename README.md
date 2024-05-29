@@ -1,8 +1,8 @@
 ## Hola Todos 👋
 
-Soy un Desarrollador Web que está buscando aportar con soluciones eficientes y de valor que satisfagan las necesidades de la empresa, creando un impacto positivo a través de la innovación, el diseño y el desarrollo web.
+Soy un Desarrollador Web que está buscando aportar con soluciones eficientes y de valor que satisfagan las necesidades de las empresa y clientes, creando un impacto positivo a través de la innovación, el diseño y el desarrollo web.
 
-Soy un entusiasta del aprendizaje automático.
+Soy un entusiasta del aprendizaje.
  
 ### ✦ Actualmente estoy ampliando mis conocimiento de: 
 - Javascript
