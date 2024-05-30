@@ -7,6 +7,7 @@ Soy un entusiasta del aprendizaje.
 ### ✦ Actualmente estoy ampliando mis conocimiento de: 
 - Javascript
 - SQL
+- jQuery
 
 ### 👍 Me gusta:
 - Aprender acerca de desarrollo web
