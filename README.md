@@ -5,9 +5,8 @@ Soy un Desarrollador Web que está buscando aportar con soluciones eficientes y 
 Soy un entusiasta del aprendizaje.
  
 ### ✦ Actualmente estoy ampliando mis conocimiento de: 
-- Javascript
-- SQL
-- jQuery
+- React
+- Node.js
 
 ### 👍 Me gusta:
 - Aprender acerca de desarrollo web
