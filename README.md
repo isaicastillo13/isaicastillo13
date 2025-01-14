@@ -7,7 +7,7 @@ Soy un entusiasta del aprendizaje.
 ### ✦ Actualmente estoy ampliando mis conocimiento de: 
 - React
 - Node.js
-- Tailwind
+- TypeScript
 
 ### 👍 Me gusta:
 - Aprender acerca de desarrollo web
